@@ -1,0 +1,8 @@
+*.dll
+bin/
+obj/Debug/
+obj/Release/
+.vs/
+.fabrik
+.history.json
+.plane
